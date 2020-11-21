@@ -29,7 +29,8 @@ Criteria Includes:
   THEN the password is either displayed in an alert or written to the page
   
   Image of Password Generator:
-  ![when generate button is clicked, inital prompt appears](./images/password-generator-img.png)
+  ![when generate button is clicked, inital prompt appears](images/password-generator-img.png)
+![](assets/horiseon-3.png)
 
   
   
