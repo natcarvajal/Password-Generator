@@ -30,7 +30,7 @@ It will have a clean and polished user interface that is responsive, ensuring th
   
   ## Image of Password Generator: ##
   
-  ![when generate button is clicked, inital prompt appears](images/password-generator-img.png)
+  ![when generate button is clicked, inital prompt appears](/images/password-generator-img.png)
   
 
   
