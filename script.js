@@ -44,10 +44,9 @@ function generatePassword(){
     for (i = 0; i < passLength; i++){
     nextChar = Math.floor(Math.random(passLength.combinedArray));
     password.concat(nextChar);
-    
-    return password;
     }
-  }else{
+    return password;
+    }else{
     alert("Thats not a valid length, try again.");
     }
   }
