@@ -30,7 +30,7 @@ It will have a clean and polished user interface that is responsive, ensuring th
   
   ## Image of Password Generator: ##
   
-  ![main page of the password generator](password-generator-img.png)
+  ![main page of the password generator](https://github.com/natcarvajal/Password-Generator/raw/main/password-generator-img.png)
   
   
  ## Languages Used: ##
@@ -38,8 +38,8 @@ It will have a clean and polished user interface that is responsive, ensuring th
       HTML, CSS, JavaScript
       
  ## Deployed Sites ##
- [Github Repo](https://github.com/natcarvajal/Password-Generator)
- [Deployed Link](https://natcarvajal.github.io/Password-Generator/)
+* [Github Repo](https://github.com/natcarvajal/Password-Generator)
+* [Deployed Link](https://natcarvajal.github.io/Password-Generator/)
 
 
 
