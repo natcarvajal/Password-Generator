@@ -30,9 +30,7 @@ It will have a clean and polished user interface that is responsive, ensuring th
   
   ## Image of Password Generator: ##
   
-  ![when generate button is clicked, inital prompt appears](/images/password-generator-img.png)
-  
-
+  ![](https://github.com/natcarvajal/Password-Generator/raw/main/password-generator-img.png)
   
   
  ## Languages Used: ##
@@ -40,7 +38,7 @@ It will have a clean and polished user interface that is responsive, ensuring th
       HTML, CSS, JavaScript
       
  ## Deployed Site ##
- Link
+ [Github Repo]()
 
 
 
