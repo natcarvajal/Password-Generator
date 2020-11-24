@@ -30,7 +30,7 @@ It will have a clean and polished user interface that is responsive, ensuring th
   
   ## Image of Password Generator: ##
   
-  ![main page of the password generator](images/password-generator-img.png)
+  ![main page of the password generator](Images/password-generator-img.png)
   
   
  ## Languages Used: ##
