@@ -37,8 +37,9 @@ It will have a clean and polished user interface that is responsive, ensuring th
   
       HTML, CSS, JavaScript
       
- ## Deployed Site ##
- [Github Repo]()
+ ## Deployed Sites ##
+ [Github Repo](https://github.com/natcarvajal/Password-Generator)
+ [Deployed Link]()
 
 
 
