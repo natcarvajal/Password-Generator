@@ -126,9 +126,8 @@ function generatePassword() {
     // WHEN all prompts are answered
     // THEN a password is generated that matches the selected criteria
     for (i = 0; i < passLength; i++) {
-      next_array =
-        combinedArray[Math.floor(Math.random() * combinedArray.length)];
-      password += nextArr[Math.floor(Math.random() * next_array.length)];
+      nextArr = combinedArray[Math.floor(Math.random() * combinedArray.length)];
+      password += nextArr[Math.floor(Math.random() * nextArr.length)];
     }
     return password;
   } else {
